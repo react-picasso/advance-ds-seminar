@@ -1,0 +1,5 @@
+Write instructions for the following task: 
+
+Task: Find the longest word in the sentence. 
+
+Sentence: The quick brown fox jumped over the lazy dog.
